@@ -125,7 +125,7 @@ It combines:
 
 Pretrained model not included due to size limitations.
 You can download IndoBERT from:
-https://huggingface.co/suryahanjaya/sentimen-analysis
+https://huggingface.co/suryahanjaya/sentimen-analysis/tree/main
 
 
 ## 📈 Performance Highlights
